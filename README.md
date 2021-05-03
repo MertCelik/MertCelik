@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=MertCelik)](https://github.com/MertCelik/github-readme-stats)
-
 <!--
 **MertCelik/MertCelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
